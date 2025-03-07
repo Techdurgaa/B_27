@@ -1,0 +1,3 @@
+Hi guys 
+Today we saw the intro class about git and github.
+First today we seen about how to create and insert the data's in a text file.
